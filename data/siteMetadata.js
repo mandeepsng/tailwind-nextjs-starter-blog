@@ -11,11 +11,11 @@ const siteMetadata = {
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
   email: 'yoblogger7@gmail.com',
-  github: 'https://github.com',
+  github: 'https://github.com/mandeepsng',
   twitter: 'https://twitter.com/mandeep_manuu',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  // facebook: 'https://facebook.com',
+  // youtube: 'https://youtube.com',
+  linkedin: 'https://www.linkedin.com/in/mandeep-mannu/',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the

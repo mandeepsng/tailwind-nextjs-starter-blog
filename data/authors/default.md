@@ -5,7 +5,7 @@ occupation: Nextjs and Laravel developer
 company: Rvs Media
 email: yoblogger7@gmail.com
 twitter: https://twitter.com/mandeep_manuu
-linkedin: https://www.linkedin.com/mandeep-mannu
+linkedin: https://www.linkedin.com/in/mandeep-mannu/
 github: https://github.com/mandeepsng
 ---
 
